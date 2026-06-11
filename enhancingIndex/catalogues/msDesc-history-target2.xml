@@ -2,6 +2,9 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../css/rules.sch" type="application/xml" 
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../css/tei_CMDF.css"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -1707,7 +1710,7 @@
                         <history>                          
                            <origin>
                               <origDate corresp="#d1e79340">[fin du xie s.]</origDate>
-                              <orgName corresp="origin|recipient">Saint-Arnoul de Crépy, Oise</orgName>                            
+                              <orgName role="origin|recipient">Saint-Arnoul de Crépy, Oise</orgName>                            
                               <hi rend="smallcaps">Origine</hi>et<hi rend="smallcaps">Destinataire :</hi>
                               <p corresp="origin|recipient">
                                  <quote>«Liber Sancti Arnulfi episcopi et martyris [Saint-Arnoul de Crépy, Oise].Si
