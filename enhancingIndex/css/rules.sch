@@ -131,7 +131,7 @@
         <rule context="//tei:origin/tei:persName | //tei:origin/tei:orgName | //tei:origin/tei:placeName"
             role="error">
             <assert test="@role and (every $v in tokenize(@role, '\|') satisfies $v = ('scribe', 'recipient', 'origin', 'patron'))"
-                >persName, orgName and placeName in origin must have a @role attribute whose values (separated by |) are drawn from: scribe, recipient, origin</assert>
+                >persName, orgName and placeName in origin must have a @role attribute whose values (separated by |) are drawn from: scribe, recipient, origin, patron</assert>
         </rule>
     </pattern>
     <pattern id="provenance">
@@ -145,22 +145,31 @@
                 > Provenance must contain (orgName or placeName or persName) and (p)</assert>
         </rule>
         <rule context="//tei:provenance/tei:p" role="warning">
-            <assert
-                test="
-                count(tei:locus or tei:bibl) = 1
-                and count(tei:q or tei:desc) = 1
-                and count(tei:date)"
-                >p in provenance must have following elements: locus or bibl, date, and either q or
-                desc if non textual source</assert>
-            <assert
+            <assert test="
+                (tei:locus or tei:bibl)
+                ">
+                p in provenance must contain either locus or bibl
+            </assert>
+            
+            <assert test="
+                not(tei:locus) or
+                (count(tei:q | tei:quote) =1)
+                ">
+                if locus is present, there must be exactly one q, quote or desc
+            </assert>
+            
+            <report test="not(tei:date)">
+                date is recommended in provenance p
+            </report>
+            <!--<assert
                 test="
                 (*[1] = tei:locus or *[1] = tei:bibl)
                 and *[2] = tei:date
-                and (*[3] = tei:q or *[3] = tei:desc)"
-                >Following order must be respected: locus/bibl, date, q/desc</assert>
+                and (*[3] = tei:q or *[3] = tei:quote or *[3] = tei:desc)"
+                >Following order must be respected: locus/bibl, date, q/quote/desc</assert>-->
         </rule>
     </pattern>
-    <pattern id="locus">
+    <!--<pattern id="locus">
         <rule context="//tei:locus" role="information">
             <assert
                 test="
@@ -180,13 +189,13 @@
                     or starts-with(., 'Passim')"
                 > Vérifier la foliotation </assert>
         </rule>
-    </pattern>
-    <pattern id="bibl">
+    </pattern>-->
+    <!--<pattern id="bibl">
         <rule context="//tei:bibl" role="information">
             <assert test="@sameAs or @type = 'CoteMedium' or @type = 'BAPSO'"> Vérifier les
                 attributs de cette référence bibliographique </assert>
         </rule>
-        </pattern>
+        </pattern>-->
     <!--<pattern id="bibl2">
         <rule context="//tei:bibl/@sameAs" role="error">
 
