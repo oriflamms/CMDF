@@ -128,6 +128,21 @@
                 >Origin should contain an element persName or orgName or placeName</assert>
         </rule>
         
+        <rule context="//tei:origin/tei:p[@corresp='origDate']">
+            
+            <!-- quote[@corresp='colophon'] recommandé si la source est un colophon -->
+            <assert role="warning"
+                test="child::tei:quote[@corresp='colophon'] or child::tei:bibl or child::tei:desc"
+                >p[@corresp='origDate'] should contain the source evidence :
+                quote[@corresp='colophon'], bibl, or desc</assert>
+            
+            <!-- locus recommandé -->
+            <assert role="warning"
+                test="child::tei:locus"
+                >p[@corresp='origDate'] should contain a locus element</assert>
+            
+        </rule>
+        
         <rule context="//tei:origin/tei:persName | //tei:origin/tei:orgName | //tei:origin/tei:placeName"
             role="error">
             <assert test="@role and (every $v in tokenize(@role, '\|') satisfies $v = ('scribe', 'recipient', 'origin', 'patron'))"

@@ -915,6 +915,15 @@
                                 <history>
                                     <origin>
                                         <origDate xml:id="d1e79993">20 août 1327 *</origDate>
+                                        <p corresp="origDate">
+                                            <quote corresp="colophon">« Explicit legenda sanctorum que
+                                                    fuit scripta finaliter anno Domini millesimo
+                                                    trecentesimo uicesimo septimo, die iouis post
+                                                    assumptionem beate Marie uirginis... »</quote>
+                                            <locus>(explicit à
+                                                l'encre noire, repris à l'encre rouge dans les
+                                                interlignes, f. 178 v°)</locus>
+                                        </p>
                                     </origin>
                                 </history>
                                 <additional>
@@ -922,14 +931,7 @@
                                         <recordHist>
                                             <p>Notice détaillée</p>
                                         </recordHist>
-                                        <note>
-                                            <p corresp="origDate">* « Explicit legenda sanctorum que
-                                                fuit scripta finaliter anno Domini millesimo
-                                                trecentesimo uicesimo septimo, die iouis post
-                                                assumptionem beate Marie uirginis... » (explicit à
-                                                l'encre noire, repris à l'encre rouge dans les
-                                                interlignes, f. 178 v°).</p>
-                                        </note>
+                                        
                                     </adminInfo>
                                     <surrogates>
                                         <bibl>CMD-F I + Planche : PI. XXXVIII</bibl>
@@ -1013,7 +1015,14 @@
                                 </physDesc>
                                 <history>
                                     <origin>
-                                        <origDate xml:id="d1e80069">23 juillet 1344*</origDate>
+                                        <origDate xml:id="d1e80069">23 juillet 1344</origDate>
+                                        <p corresp="colophon">
+                                            <quote corresp="colophon">Explicit
+                                                        legenda sanctorum que scripta fuit finaliter anno
+                                                        Domini IWCCCquadragesimo quarto, die ueneris post
+                                                        festum Marie Magdalene</quote>
+                                            <locus>(f. 246).</locus>
+                                            </p>
                                     </origin>
                                     <provenance>
                                         <orgName role="possesseur">Carmes de la place Maubert,
@@ -1134,8 +1143,6 @@
                                         <origDate xml:id="d1e80149">31 août 1498</origDate>
                                         <persName role="origin|scribe">Anthonium de Bergis supra
                                             Zomam</persName>
-                                        <hi rend="smallcaps">Origine</hi> et <hi rend="smallcaps"
-                                            >Scribe :</hi>
                                         <p corresp="origin|scribe" rend="Note de bas de page1">
                                             <quote>« Exest (sic) liber de oculo morali, editus ab...
                                                 magistro Petro Lacepiera... excopiatusque per

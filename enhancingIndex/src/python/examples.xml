@@ -1,0 +1,1079 @@
+<examples>
+ 
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e19634">[1105-1113]</origDate>
+          <p>
+            <hi rend="smallcaps">Scribes</hi>: Plusieurs mains s’efforçant à
+            l’unité.</p>
+          <p>
+            <hi rend="smallcaps">Destinataire :</hi>
+            <hi rend="italic">« Abbas Rotholfus, diuine legis amicus, librum
+              Ludgero patri</hi>[saint Ludger, patron de l’abbaye de Werden,
+            Allemagne]<hi rend="italic">dédit hune uenerando</hi>» (main des
+            titres, f. 1; il y a eu deux abbés de Werden du nom de Rodolphe,
+            l’un en 1105, l’autre de 1105 à 1113).</p>
+        </origin>
+        <provenance>
+          <p>
+            <hi rend="smallcaps">Possesseurs :</hi>
+            <hi rend="italic">« Liber Sancti Ludgeri episcopi in
+              Werdeno»</hi>(xv<hi rend="superscript">e</hi>s., f. 2); ms.
+            acheté par le duc d’Aumale chez Boone, à Londres, en 1854.</p>
+        </provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note/>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I + Planche : PL. VII</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result> 
+        <handNote xml:id="d1e19584_scribe_1">
+          <desc>Plusieurs mains s'efforçant à l'unité.</desc>
+        </handNote>
+        <history>
+          <origin>
+            <origDate xml:id="d1e19634">[1105-1113]</origDate>
+             <persName role="recipient">Rodolphe, abbé de Werden (1105 ou 1105-1113)</persName>
+            <p corresp="scribe">Plusieurs mains s'efforçant à l'unité.</p>
+            <p corresp="recipient">
+              <quote>« Abbas Botholfus, diuine legis amicus, librum Ludgero patri [saint Ludger, patron
+                de l'abbaye de Werden, Allemagne] dédit hune uenerando»</quote>
+              <desc>main des titres; il y a eu deux abbés de Werden du nom de Rodolphe, l'un en 1105,
+                l'autre de 1105 à 1113</desc>
+              <locus>f. 1</locus>
+            </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Abbaye de Werden</orgName>
+            <p>
+              <locus>f. 2</locus>: <date notBefore="1400" notAfter="1500">XVe s.</date>, <quote>Liber
+                Sancti Ludgeri episcopi in Werdeno</quote>
+            </p>
+          </provenance>
+          <provenance>
+            <persName role="possesseur">Duc d'Aumale</persName>
+            <p>
+              <desc>ms. acheté par le duc d'Aumale chez Boone, à Londres, en 1854</desc>
+            </p>
+          </provenance>
+        </history>
+      </result>
+    </output>
+  </example>
+  
+  
+  
+  
+  
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e19844">[1571-1586]</origDate>
+          <p>
+            <hi rend="smallcaps">Destinataire :</hi>Louise de
+            Bourbon-Montpensier, abbesse de Faremoutiers de 1571 à
+            1586 (armes avec crosse abbatiale et initiales «L.B. »,
+            f. Vv°; armes de Bourbon-Montpensier dans la bordure des
+            ff. 10 v°, 55, 60 v°, 66, 71).</p>
+        </origin>
+        <provenance>
+          <p>
+            <hi rend="smallcaps">Possesseurs</hi>: Abbaye de
+            Faremoutiers, Seine-&amp;-Marne;<hi rend="italic"
+              >«J’appartiens à l’abbé J. Dégoût, Melunois, en son
+              vivant curé de Faremoutier et actuellement curé
+              doyen de Mormant-en-Brie, 1886 »</hi>(6<hi
+                rend="superscript">e</hi>f. non numéroté); le
+            libraire Champion, qui l’a cédé au duc d’Aumale en 1888
+            (cf.<hi rend="italic">Chantilly. Le Cabinet des
+              Livres,</hi>1900, t. I, p. 47).</p>
+        </provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>* Le ms. primitif va jusqu’au f. 94, les trois
+              derniers ff. contenant une addition légèrement
+              postérieure (à noter que cette partie de la
+              foliotation est erronée). La fin est occupée par des
+              additions du<hi>XVII</hi>
+              <hi rend="superscript">e</hi>s.</p>
+            <p>Ecritures humanistiques : capitale, ronde et
+              cursive.</p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>       
+        <handDesc>
+          <handNote xml:id="d1e19795_scribe_1">
+            <desc>Écritures humanistiques : capitale, ronde et
+              cursive.</desc>
+          </handNote>
+        </handDesc>
+        <history>
+          <origin>
+            <origDate xml:id="d1e19844">[1571-1586]</origDate>
+            <persName role="recipient">Louise de
+              Bourbon-Montpensier</persName>
+            <p corresp="recipient">
+              <desc>Louise de Bourbon-Montpensier, abbesse de
+                Faremoutiers de 1571 à 1586 (armes avec crosse
+                abbatiale et initiales «L.B. », f. Vv°; armes de
+                Bourbon-Montpensier dans la bordure des ff. 10 v°,
+                55, 60 v°, 66, 71)</desc>
+              <locus>f. Vv°, 10 v°,
+                55, 60 v°, 66, 71</locus>
+            </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Abbaye de Faremoutiers,
+              Seine-et-Marne</orgName>
+          </provenance>
+          <provenance>
+            <persName role="possesseur">Abbé J. Dégoût</persName>
+            <p>
+              <locus>6e f. non numéroté</locus>
+              <quote>J'appartiens à l'abbé J. Dégoût, Melunois, en son
+                vivant curé de Faremoutier et actuellement curé
+                doyen de Mormant-en-Brie, 1886</quote>
+            </p>
+          </provenance>
+          <provenance>
+            <persName role="possesseur">Libraire Champion</persName>
+            <p>
+              <desc>cédé au duc d'Aumale en 1888</desc>
+              <bibl>cf. Chantilly. Le Cabinet des Livres, 1900, t. I,
+                p. 47</bibl>
+            </p>
+          </provenance>
+        </history>
+      </result>
+    </output>
+  </example>
+  
+  
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e79340">[fin du xie s.]</origDate>
+          <p>
+            <hi rend="smallcaps">Origine</hi>et<hi rend="smallcaps"
+              >Destinataire :</hi>
+            <hi rend="italic">«Liber Sancti Arnulfi episcopi et
+              martyris</hi>[Saint-Arnoul de Crépy, Oise].<hi
+                rend="italic">Si quis eum furauerit, anathema sit.
+                Fiat. Fiat. Fiat. Amen»</hi>(main du rubricateur, f.
+            222); «<hi rend="italic">Quod cernis, lector, studio
+              constare uolumen</hi>
+          </p>
+          <p>
+            <hi rend="italic">Quod tibi dat quae, martyr summe
+              Arnulfe,</hi>
+          </p>
+          <p>
+            <hi rend="italic">Obtentu, Christe, uiuat ut ipse
+              tuo.</hi>
+          </p>
+          <p>
+            <hi rend="italic">Hoc ne quisque sibi presumat tollere
+              furtim</hi>
+          </p>
+          <p>
+            <hi rend="italic">Testor per Christum Arnulfumque
+              suum</hi>», (distiques de la main du rubricateur, au
+            bas des ff. 3 v° à 6).</p>
+          <p>
+            <hi rend="smallcaps">Scribe</hi>: Sans doute une seule
+            main pour le corps du texte (ff. 1-222); les ff.
+            223-224, qui contiennent une bulle du pape Pascal II
+            datée du 20 novembre 1103, ont été ajoutés au début du
+            xii° s.</p>
+        </origin>
+        <provenance>
+          <p>
+            <hi rend="smallcaps">Possesseurs:</hi>
+            <hi rend="italic">«Iste est liber Beati Arnulfi de
+              Crispeio...»</hi>(xii<hi rend="superscript"
+                >e</hi>s., f. 3);<hi rend="italic">«Ex libris monasterii
+                  Sancti Martini a
+                  Campis</hi>[Saint-Martin-des-Champs, à Paris] » (xvii<hi
+                    rend="superscript">e</hi>s., f. 3).</p>
+        </provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note/>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I + Planche : PI. CLXX</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+        <handDesc>
+          <handNote xml:id="d1e79282_scribe_1">
+            <locus from="1" to="222">ff. 1-222</locus>
+          </handNote>
+          <handNote xml:id="d1e79282_scribe_2">
+            <locus from="223" to="224">ff. 223-224</locus>
+          </handNote>
+        </handDesc>
+        <history>
+          <origin>
+            <origDate xml:id="d1e79340">[fin du xie s.]</origDate>
+            <orgName role="origin|recipient">Saint-Arnoul de Crépy, Oise</orgName>
+            <p corresp="origin|recipient">
+              <quote>«Liber Sancti Arnulfi episcopi et martyris [Saint-Arnoul de Crépy, Oise]. Si
+                quis eum furauerit, anathema sit. Fiat. Fiat. Fiat. Amen»</quote>
+              <desc>main du rubricateur</desc>
+              <locus>f. 222</locus>
+            </p>
+            <p corresp="origin|recipient">
+              <quote>«Quod cernis, lector, studio constare uolumen <lb/>Quod tibi dat quae, martyr
+                summe Arnulfe, <lb/>Obtentu, Christe, uiuat ut ipse tuo. <lb/>Hoc ne quisque sibi
+                presumat tollere furtim <lb/>Testor per Christum Arnulfumque suum»</quote>,
+                <desc>distiques de la main du rubricateur</desc>
+              <locus>au bas des ff. 3 v° à 6</locus>. </p>
+            <p corresp="scribe">
+              <desc>Sans doute une seule main pour le corps du texte (ff. 1-222); les ff. 223-224,
+                qui contiennent une bulle du pape Pascal II datée du 20 novembre 1103, ont été
+                ajoutés au début du xii° s. </desc>
+            </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Saint-Arnoul de Crépy</orgName>
+            <p>
+              <locus>f. 3</locus>: <date notBefore="1100" notAfter="1200">XIIe s.</date>,
+                <quote>Iste est liber Beati Arnulfi de Crispeio...</quote>
+            </p>
+          </provenance>
+          <provenance>
+            <orgName role="possesseur">Saint-Martin-des-Champs, Paris</orgName>
+            <p>
+              <locus>f. 3</locus>: <date notBefore="1600" notAfter="1700">XVIIe s.</date>, <quote>Ex
+                libris monasterii Sancti Martini a Campis</quote>
+            </p>
+          </provenance>
+        </history>
+
+      </result>
+    </output>
+  </example>
+  <example>
+    <input>
+      
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>* D’après la préface (f. 132), cette oeuvre, dont le
+              ms. est l’exemplaire original, est postérieure aux
+              efforts faits par Philippe de Mézières pour
+              fonder<hi>un</hi>ordre de la Passion, entreprise
+              qui se situe vers 1396. Philippe<hi>de</hi>Mézières
+              est mort<hi>en</hi>1405.</p>
+            <p>** Ce fragment est relié avec plusieurs autres
+              cléments, d’un format<hi>un</hi>peu différent; mais
+              seuls les ff. 43-82 paraissent assez antérieurs; le
+              reste du ms. est de mains très proches et sans doute
+              contemporaines de celles des ff. 129-209.</p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I + Planche : PL LXVIII</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+        <history>
+          <origin>
+            <origDate xml:id="d1e79460">[vers 1396-1405]</origDate>
+            <persName role="patron|scribe">Philippe de Mézières</persName>
+            <!-- Original narrative text preserved intact -->
+            <p corresp="origin">
+              <desc>Ms. copié sous la direction de l'auteur, alors qu'il était célestin à Paris, et
+                corrigé par lui; le f. 199 est en partie de la main de Philippe de Mézières.</desc>
+            </p>
+            <p corresp="origDate">
+              <desc>* D'après la préface (f. 132), cette oeuvre, dont le ms. est l'exemplaire
+                original, est postérieure aux efforts faits par Philippe de Mézières pour fonder un
+                ordre de la Passion, entreprise qui se situe vers 1396. Philippe de Mézières est
+                mort en 1405.</desc>
+            </p>
+
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Célestins de Paris</orgName>
+            <p>
+              <locus>f. 1</locus>: <date notBefore="1400" notAfter="1500">XVe s.</date>, <quote>Iste
+                liber est de conuentu fratrum Celestinorum de Parisius</quote>
+            </p>
+            <p>
+              <locus>f. 209</locus>: <date notBefore="1400" notAfter="1500">XVe s.</date>,
+                <quote>Celestinorum Beate Marie de Parrhisius, sign. 5</quote>
+            </p>
+          </provenance>
+        </history>
+      </result>
+    </output>
+  </example>
+  <example>
+    <input>
+      
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>
+              <hi>* Ce recueil contient certains éléments de la
+                controverse avec les Hussites, qui eut lieu à
+                cette époque, au cours du concile de Bâle, et dans
+                laquelle Gilles Carlier joua un rôle important.
+                L’un des textes est daté de février 1433 (a. st.),
+                au f. 165; la rédaction paraît tout a fait
+                contemporaine.</hi>
+            </p>
+            <p>
+              <hi>Écriture : cf. Mazarine 1617, pl. XCII.</hi>
+            </p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+        <handDesc>
+          <handNote xml:id="d1e79509_scribe_1">
+            <locus from="1" to="117">ff. 1-117</locus>
+            <locus from="167" to="341">ff. 167-341</locus>
+          </handNote>
+          <handNote xml:id="d1e79509_scribe_2">
+            <locus from="118" to="130">ff. 118-130</locus>
+            <locus from="134" to="165">ff. 134-165</locus>
+          </handNote>
+          <handNote xml:id="d1e79509_scribe_3">
+            <locus from="165v" to="166">ff. 165v-166</locus>
+            <persName>Gilles Carlier</persName>
+          </handNote>
+        </handDesc>
+        <history>
+          <origin>
+            <origDate xml:id="d1e79566">[vers 1433-1434]*</origDate>
+            <persName role="recipient|scribe">Gilles Carlier</persName>
+            <!-- Original narrative text preserved intact -->
+            <p corresp="origDate">* Ce recueil contient certains éléments de la controverse avec les
+              Hussites, qui eut lieu à cette époque, au cours du concile de Bâle, et dans laquelle
+              Gilles Carlier joua un rôle important. L'un des textes est daté de février 1433 (a.
+              st.), au f. 165; la rédaction paraît tout a fait contemporaine.</p>
+            <p corresp="scribe"> Plusieurs mains, notamment une pour les ff. 1-117 et 167-341, et
+              une pour les ff. 118-130 et 134-165.</p>
+            <p corresp="recipient|scribe">
+              <desc>Gilles Carlier, doyen de Cambrai, mort en 1472 (la table, les titres, les
+                explicits sont de sa main, ainsi que les ff. 165v°-166 et de nombreuses
+                notes).</desc>
+            </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Collège de Navarre, Paris</orgName>
+            <p>
+              <bibl>cf. A. Molinier, Catalogue des mss de la bibl. Mazarine, t. II, 1886, p.
+                164</bibl>
+            </p>
+          </provenance>
+        </history>
+
+      </result>
+    </output>
+  </example>
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e79663">[vers 1433-1434] *</origDate>
+          <p>
+            <hi rend="smallcaps">Scribes</hi>: Plusieurs mains,
+            notamment pour les ff. 5-70 et 100-114; les ff. 71-88 et
+            89- 99 sont de deux autres mains.</p>
+          <p>
+            <hi rend="smallcaps">Destinataire :</hi>
+            <hi rend="italic">«E[gidii] Carlerii</hi>[Gilles
+            Carlier, doyen de Cambrai, mort en 1472].<hi
+              rend="italic">Precii II
+              saluciorum»**</hi>(signature, f. 1; la table, les
+            titres, de nombreuses notes et le f. 21 en entier sont
+            de sa main).</p>
+        </origin>
+        <provenance>
+          <p>
+            <hi rend="smallcaps">Possesseur</hi>: [Collège de
+            Navarre, Paris (cf. A.<hi rend="smallcaps"
+              >Molinier,</hi>
+            <hi rend="italic">Catalogue des mss de la bibl.
+              Mazarine,</hi>t. II, 1886, p. 165)].</p>
+        </provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>* Ce recueil contient certains éléments de la
+              controverse avec les Hussites, qui eut lieu à cette
+              époque au concile de Bâle et dans laquelle Gilles
+              Carlier joua un rôle important; la rédaction parait
+              tout à fait contemporaine.</p>
+            <p>** « Saluts », monnaie d’or française.</p>
+            <p>Ecriture ; cf. Mazarine 1617, pl. XCII.</p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+
+        <handDesc>
+          <handNote xml:id="d1e79606_scribe_1">
+            <locus from="5" to="70">ff. 5-70</locus>
+            <locus from="100" to="114">ff. 100-114</locus>
+          </handNote>
+          <handNote xml:id="d1e79606_scribe_2">
+            <locus from="71" to="88">ff. 71-88</locus>
+          </handNote>
+          <handNote xml:id="d1e79606_scribe_3">
+            <locus from="89" to="99">ff. 89-99</locus>
+          </handNote>
+          <handNote xml:id="d1e79606_scribe_4">
+            <persName>Gilles Carlier</persName>
+            <locus n="21">f. 21</locus>
+          </handNote>
+        </handDesc>
+        <history>
+          <origin>
+            <origDate corresp="d1e79663">[vers 1433-1434] *</origDate>
+            <persName role="recipient|scribe">Gilles Carlier</persName>
+            <p corresp="origDate">
+              <desc>* Ce recueil contient certains éléments de la controverse avec les Hussites, qui
+                eut lieu à cette époque au concile de Bâle et dans laquelle Gilles Carlier joua un
+                rôle important; la rédaction parait tout à fait contemporaine.</desc>
+            </p>
+
+            <p corresp="scribe"> Plusieurs mains, notamment pour les ff. 5-70 et 100-114; les ff.
+              71-88 et 89-99 sont de deux autres mains.</p>
+            <p corresp="recipient|scribe">
+              <quote>«E[gidii] Carlerii Precii II saluciorum»<note>« Saluts », monnaie d'or
+                  française.</note></quote>
+              <desc> Gilles Carlier, doyen de Cambrai, mort en 1472. (signature, f. 1; la table, les
+                titres, de nombreuses notes et le f. 21 en entier sont de sa main).</desc>
+            </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Collège de Navarre, Paris</orgName>
+            <p>
+              <bibl>cf. A. Molinier, Catalogue des mss de la bibl. Mazarine, t. II, 1886, p.
+                165</bibl>
+            </p>
+          </provenance>
+        </history>
+      </result>
+    </output>
+  </example>
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e79766">5 novembre 1404</origDate>
+          <p>
+            <hi rend="smallcaps">Origine</hi>et<hi rend="smallcaps"
+              >Scribe :</hi>
+            <hi rend="italic">« Hic liber fuit scriptus in collegio
+              de Nauarra Parisius, per dominum Philippum de
+              Niuella, presbiterum, ibidem cappellanum, et finitus
+              nonas nouemb[ris] anno quadringentesimo quarto.
+              Amen»</hi>(souscription de la main du texte, f. 195
+            v°).</p>
+        </origin>
+        <provenance>
+          <p>
+            <hi rend="smallcaps">Possesseur</hi>: Collège de
+            Navarre, Paris (notes du<hi rend="smallcaps"
+              >xvii°</hi>s. au bas du f. 195v“ : l’une est signée
+            de<hi rend="italic">« Seriliers (?), doctor.
+              1607»,</hi>l’autre de<hi rend="italic">« I. de
+                Launoy*, baccalaureus huius domus, 1630 »).</hi>
+          </p>
+        </provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>* Il s’agit de l’historien du collège de Navarre.</p>
+            <p>Ecriture du même style que : Mazarine 606, pl.
+              LXXXI.</p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+        <handDesc>
+          <handNote xml:id="d1e79708_scribe_1">
+            <locus>f. 195 v°</locus>
+            <persName>Philippum de Niuella</persName>
+          </handNote>
+        </handDesc>
+        <history>
+          <origin>
+            <origDate xml:id="d1e79766">5 novembre 1404</origDate>
+            <persName role="origin|scribe">Philippum de Niuella</persName>
+            <p corresp="origin|scribe">
+              <quote>« Hic liber fuit scriptus in collegio de Nauarra Parisius, per dominum
+                Philippum de Niuella, presbiterum, ibidem cappellanum, et finitus nonas nouemb[ris]
+                anno quadringentesimo quarto. Amen»</quote>
+              <desc>(souscription de la main du texte</desc>
+              <locus>f. 195 v°</locus>. </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Collège de Navarre, Paris</orgName>
+            <p>
+              <locus>au bas du f. 195v°</locus>: <date notBefore="1600" notAfter="1700">XVIIe
+                s.</date>, <desc>notes, l'une est signée :</desc>
+              <quote>Seriliers (?), doctor. 1607</quote>
+            </p>
+            <p>
+              <locus>f. 195v°</locus>: <date notBefore="1600" notAfter="1700">XVIIe s.</date>,
+                <quote>I. de Launoy*, baccalaureus huius domus, 1630</quote>
+              <desc>* Il s'agit de l'historien du collège de Navarre.</desc>
+            </p>
+          </provenance>
+        </history>
+
+
+      </result>
+    </output>
+  </example>
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e79867">9 septembre
+            1463</origDate>Scribe : «<hi rend="italic">Explicit legenda
+              beate Katherine de Senis... scripta anno Domini
+              millesimo CCCC° sexagesimo tercio, IX die
+              septembris</hi>
+          <p>
+            <hi rend="italic">Si aliquid promisistis</hi>
+          </p>
+          <p>
+            <hi rend="italic">Michi nec tribuistis,</hi>
+          </p>
+          <p>
+            <hi rend="italic">Protinus absque mora</hi>
+          </p>
+          <p>
+            <hi rend="italic">Soluatis, iam uenit hora.</hi>
+          </p>
+          <p>
+            <hi rend="italic">Tacheti</hi>» (souscription rubriquée,
+            f. 133 v°).</p>
+        </origin>
+        <provenance>Possesseurs : «<hi rend="italic">Pertinet a
+            sororibus</hi>(sic)<hi rend="italic">Metis</hi>[Metz,
+          Moselle]<hi rend="italic">conuentus Predicatricum</hi>»
+          (XVe-XVIe s., f. 1 v°); «<hi rend="italic">Faict par moy
+            Francheys Nivellet</hi>» (xvie s., f. 172; notes de sa
+          main aux ff. 133 v° et 135 v°); «<hi rend="italic">Ab anno
+            1669 mense iulio. Pro bibliotheca conuentus Parisiensis
+            sanctissimae Annunciacionis ordinis predicatorum, nouae
+            prouinciae sancti Ludouici regis</hi>[Dominicains de la
+          rue Saint-Honoré] » (intérieur du plat inférieur de la
+          reliure).</provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>la reliure).</p>
+            <p>
+              <hi>* Ce fragment est relié avec d’autres éléments
+                qui en étaient indépendants à l’origine : les ff.
+                1-8, sur papier, d’une écriture cursive du xv</hi>
+              <hi rend="superscript">e</hi>
+              <hi>-xvi</hi>
+              <hi rend="superscript">e</hi>
+              <hi>s., et les ff. 136-172, sur parch., du xm</hi>
+              <hi rend="superscript">e</hi>
+              <hi>s.</hi>
+            </p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I + Planche : Pl. CXX</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+        <handDesc>
+          <handNote xml:id="d1e79808_scribe_1">
+            <locus>f. 133 v°</locus>
+            <persName>Tacheti</persName>
+          </handNote>
+        </handDesc>
+        <history>
+          <origin>
+            <origDate xml:id="d1e79867">9 septembre 1463</origDate>
+            <persName role="scribe">Tacheti</persName>
+            <p corresp="scribe|origDate">
+              <quote>«Explicit legenda beate Katherine de Senis... scripta anno Domini millesimo
+                CCCC° sexagesimo tercio, IX die septembris <lb/>Si aliquis promisistis <lb/>Michi
+                nec tribuistis, <lb/>Protinus absque mora <lb/>Soluatis, iam uenit hora.
+                <lb/>Tacheti»</quote>
+              <desc>souscription rubriquée</desc>
+              <locus>f. 133 v°</locus>. </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Couvent des Prêcheresses, Metz</orgName>
+            <p>
+              <locus>f. 1 v°</locus>: <date notBefore="1400" notAfter="1600">XVe-XVIe s.</date>,
+                <quote>Pertinet a sororibus Metis conuentus Predicatricum</quote>
+            </p>
+          </provenance>
+          <provenance>
+            <orgName role="possesseur">Francheys Nivellet</orgName>
+            <p>
+              <locus>f. 172</locus>: <date notBefore="1500" notAfter="1600">XVIe s.</date>,
+                <quote>Faict par moy Francheys Nivellet</quote>
+            </p>
+          </provenance>
+          <provenance>
+            <orgName role="possesseur">Dominicains de la rue Saint-Honoré, Paris</orgName>
+            <p>
+              <locus>intérieur du plat inférieur de la reliure</locus>
+              <date>ab anno 1669 mense iulio</date>
+              <quote>Ab anno 1669 mense iulio. Pro bibliotheca conuentus Parisiensis sanctissimae
+                Annunciacionis ordinis predicatorum, nouae prouinciae sancti Ludouici regis</quote>
+            </p>
+          </provenance>
+        </history>
+      </result>
+    </output>
+  </example>
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e79993">20 août 1327 *</origDate>
+        </origin>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>* « Explicit legenda sanctorum que fuit scripta
+              finaliter anno Domini millesimo trecentesimo
+              uicesimo septimo, die iouis post assumptionem beate
+              Marie uirginis... » (explicit à l’encre noire,
+              repris à l’cncre rouge dans les interlignes, f. 178
+              v°).</p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I + Planche : PI. XXXVIII</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+        <history>
+          <origin>
+            <origDate xml:id="d1e79993">20 août 1327 *</origDate>
+            <p corresp="origDate">
+              <quote corresp="colophon">« Explicit legenda sanctorum que fuit scripta finaliter anno
+                Domini millesimo trecentesimo uicesimo septimo, die iouis post assumptionem beate
+                Marie uirginis... »</quote>
+              <desc>explicit à l'encre noire, repris à l'encre rouge dans les interlignes</desc>
+              <locus>f. 178 v°</locus>
+            </p>
+          </origin>
+        </history>
+
+      </result>
+    </output>
+  </example>
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e80069">23 juillet 1344*</origDate>
+        </origin>
+        <provenance>Possesseur : « Iste liber est de libraria conuentus
+          Parisiensis ordinis fratrnm beate Dei genitricis Marie de
+          Monte Carmeli [Carmes de la place Maubert] » (xve s., f.
+          246; autre ex-libris, xviib s., au f. 1 : « Ex bibliotheca
+          Carmelitarum Parisiensium maioris conuentus. I 89
+          »).</provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>
+              <hi rend="italic">* « Expïicit legenda sanctorum que
+                scripta fuit finaliter anno Domini
+                IWCCCquadragesimo quarto, die ueneris post festum
+                Marie Magdalene</hi>» (f, 246).</p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I + Planche : PL XLV</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+        <history>
+          <origin>
+            <origDate xml:id="d1e80069">23 juillet 1344</origDate>
+            <p corresp="origDate">
+              <quote corresp="colophon">Explicit legenda sanctorum que scripta fuit finaliter anno
+                Domini IWCCCquadragesimo quarto, die ueneris post festum Marie Magdalene</quote>
+              <locus>f. 246</locus>
+            </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Carmes de la place Maubert, Paris</orgName>
+            <p>
+              <locus>f. 246</locus>: <date notBefore="1400" notAfter="1500">XVe s.</date>,
+                <quote>Iste liber est de libraria conuentus Parisiensis ordinis fratrum beate Dei
+                genitricis Marie de Monte Carmeli</quote>
+            </p>
+            <p>
+              <locus>f. 1</locus>: <date notBefore="1600" notAfter="1700">XVIIe s.</date>, <quote>Ex
+                bibliotheca Carmelitarum Parisiensium maioris conuentus. I 89</quote>
+            </p>
+          </provenance>
+        </history>
+      </result>
+    </output>
+  </example>
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e80149">31 août 1498</origDate>
+          <p rend="Note de bas de page1">
+            <hi rend="smallcaps">Origine</hi>et<hi rend="smallcaps"
+              >Scribe :</hi>
+            <hi rend="italic">« Exest</hi>(sic)<hi rend="italic"
+              >liber de oculo morali, editus ab... magistro Petro
+              Lacepiera... excopiatusque per fratrem Anthonium de
+              Bergis supra Zomam</hi>[Berg-op-Zoom, Pays-Bas]*,<hi
+                rend="italic">cantorem in
+                Korssendonck</hi>[Belgique],<hi rend="italic">anno
+                  Domini M°CCCC°XCVII1° in profecto</hi>(sic)<hi
+                    rend="italic">beati Egidii abbatis</hi>»
+            (souscription rubriquée, f. 379 v°; tout le ms. est de
+            la même main).</p>
+        </origin>
+        <provenance>
+          <p rend="Note de bas de page1">
+            <hi rend="smallcaps">Possesseur :</hi>
+            <hi rend="italic">« In Korssendonck</hi>» (mention
+            figurant sur l’étiquette de l’ancienne reliure du xv<hi
+              rend="superscript">e</hi>s., reportée sur le plat
+            supérieur de la reliure actuelle).</p>
+        </provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>
+              <hi>* Ce copiste, Antoine Vlamincx, est mort en 1504
+                (cf. D.</hi>
+              <hi rend="smallcaps">De Bbuyne</hi>
+              <hi>ds</hi>
+              <hi rend="italic">Revue bénédictine,</hi>
+              <hi>XLVI, 1934, p. 120).</hi>
+            </p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I + Planche : Pl. CLI.</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+        <handDesc>
+          <handNote xml:id="d1e80091_scribe_1">
+            <locus>f. 379 v°</locus>
+            <persName>Anthonium de Bergis supra Zomam</persName>
+          </handNote>
+        </handDesc>
+        <history>
+          <origin>
+            <origDate xml:id="d1e80149">31 août 1498</origDate>
+            <persName role="origin|scribe">Anthonium de Bergis supra Zomam</persName>
+            <p corresp="origin|scribe">
+              <quote>« Exest (sic) liber de oculo morali, editus ab... magistro Petro Lacepiera...
+                excopiatusque per fratrem Anthonium de Bergis supra Zomam [Berg-op-Zoom, Pays-Bas]*,
+                cantorem in Korssendonck [Belgique], anno Domini M°CCCC°XCVII1° in profecto (sic)
+                beati Egidii abbatis»</quote>
+              <desc>(souscription rubriquée; tout le ms. est de la même main)</desc>
+              <bibl>* Ce copiste, Antoine Vlamincx, est mort en 1504 (cf. D. <hi rend="smallcaps">De
+                  Bruyne</hi>
+                <hi>ds</hi>
+                <hi rend="italic">Revue bénédictine,</hi>
+                <hi>XLVI, 1934, p. 120).</hi>
+              </bibl>
+              <locus>f. 379 v°</locus>. </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Korssendonck</orgName>
+            <p>
+              <locus>étiquette de l'ancienne reliure, plat supérieur</locus>: <date notBefore="1400"
+                notAfter="1500">XVe s.</date>, <quote>In Korssendonck</quote>
+            </p>
+          </provenance>
+        </history>
+      </result>
+    </output>
+  </example>
+
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e80266">29 novembre 1469</origDate>
+          <p>
+            <hi rend="smallcaps">Origine</hi>et<hi rend="smallcaps"
+              >Scribe :</hi>
+            <hi rend="italic">« Hune libellum scribere incepit
+              frater Vincencius, presbiter et professus conuentus
+              Namurcensis fratrum sancte Crucis</hi>
+            <hi rend="italic superscript">*</hi>[Croisiers de Namur,
+            Belgique],<hi rend="italic">quem ego frater
+              Tossanus, eiusdem status, ordinis et conuentus,
+              propriis manibus compleui anno Domini M°CCCC°LIX° in
+              uigilia sancti Andree, adiuuante gracia** Dei cui
+              laus est et gloria in secula [secu]lorum. Amen.
+              Oretis, obsecro, pro uili scriptore»</hi>(f. 143;
+            changement de main à la deuxième colonne du f. 57 v°;
+            les ff. 11 bis-12 et 25-26 sont d’une troisième main
+            contemporaine).</p>
+        </origin>
+        <provenance>
+          <p>
+            <hi rend="smallcaps">Possesseur :</hi>
+            <hi rend="italic">« Ista legenda beati Francisci, patris
+              seraphici, est fratrum Crucifero- rum
+              Namurcensium...</hi>» (xvi‘ s., f. 1).</p>
+        </provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>* Ces trois derniers mots ont été ajoutés en
+              marge.</p>
+            <p>** Même remarque pour le mot<hi rend="italic"
+                >«gracia».</hi>
+            </p>
+            <p>Ecriture de la même famille que : Mazarine 991, pl.
+              CXXV.</p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result> 
+        <handDesc>
+          <handNote xml:id="d1e80208_scribe_1">
+            <locus>f. 143</locus>
+            <persName>frater Vincencius</persName>
+          </handNote>
+          <handNote xml:id="d1e80208_scribe_2">
+            <locus from="57v" to="143">ff. 57 v° col. 2 -
+              143</locus>
+            <persName>frater Tossanus</persName>
+          </handNote>
+          <handNote xml:id="d1e80208_scribe_3">
+            <locus>ff. 11 bis-12 et 25-26</locus>
+          </handNote>
+        </handDesc>
+        <history>
+          <origin>
+            <origDate xml:id="d1e80266">29 novembre 1469</origDate>
+            <persName role="origin|scribe">frater Vincencius</persName>
+            <persName role="origin|scribe">frater Tossanus</persName>
+            <p corresp="origin|scribe">
+              <quote>« Hune libellum scribere incepit frater
+                Vincencius, presbiter et professus conuentus
+                Namurcensis fratrum sancte Crucis <note>Ces trois derniers mots ont été ajoutés en
+                    marge.</note>[Croisiers de
+                Namur, Belgique], quem ego frater Tossanus, eiusdem
+                status, ordinis et conuentus, propriis manibus
+                compleui anno Domini M°CCCC°LIX° in uigilia sancti
+                Andree, adiuuante gracia<note>Même remarque pour le mot<hi rend="italic"
+                    >«gracia».</hi></note> Dei cui laus est et
+                gloria in secula [secu]lorum. Amen. Oretis, obsecro,
+                pro uili scriptore»</quote>
+              <desc>(changement de main à la deuxième colonne du f. 57
+                v°; les ff. 11 bis-12 et 25-26 sont d'une troisième
+                main contemporaine)</desc>
+              <locus>f. 143</locus>. </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Croisiers de Namur</orgName>
+            <p>
+              <locus>f. 1</locus>: <date notBefore="1500"
+                notAfter="1600">XVIe s.</date>, <quote>Ista legenda
+                  beati Francisci, patris seraphici, est fratrum
+                  Cruciferorum Namurcensium...</quote>
+            </p>
+          </provenance>
+        </history>
+      </result>
+    </output>
+  </example>
+  
+  <example>
+    <input>
+      <history>
+        <origin>
+          <origDate xml:id="d1e80368">1462</origDate>
+          <p>
+            <hi rend="smallcaps">Origine</hi>et<hi rend="smallcaps"
+              >Scribe :</hi>
+            <hi rend="italic">« Explicit secundus liber dyalogorum
+              beati Gregorii pape... scriptus per manum fratris
+              Guillelmi Gaudebout, pro tune in collegio
+              Cluniacensi</hi>[collège de Gluny]<hi rend="italic"
+                >Parisius commorantis, anno Domini
+                M°quadringentesimo sexagesimo</hi>2° » (souscription
+            rubriquée, f. 17 v°).</p>
+        </origin>
+        <provenance>
+          <p>
+            <hi rend="smallcaps">Possesseur</hi>:
+            [Saint-Martin-des-Champs, à Paris (cf. A.<hi
+              rend="smallcaps">Molinier,</hi>
+            <hi rend="italic">Catalogue des mss de la bibl.
+              Mazarine,</hi>t. Il, 1886, p. 227)].</p>
+        </provenance>
+      </history>
+      <additional>
+        <adminInfo>
+          <recordHist>
+            <p>Notice détaillée</p>
+          </recordHist>
+          <note>
+            <p>* Ce texte est relié avec plusieurs autres fragments,
+              de mains contemporaines, pour la plupart des pièces
+              d’archives; il remplit un cahier unique,
+              primitivement de 20 fl., dont les trois derniers ont
+              été coupés.</p>
+          </note>
+        </adminInfo>
+        <surrogates>
+          <bibl>CMD-F I + Planche : Pl. CXIX</bibl>
+        </surrogates>
+      </additional>
+    </input>
+    <output>
+      <result>
+        <handDesc>
+          <handNote xml:id="d1e80311_scribe_1">
+            <locus>f. 17 v°</locus>
+            <persName>Guillelmi Gaudebout</persName>
+          </handNote>
+        </handDesc>
+        <history>
+          <origin>
+            <origDate xml:id="d1e80368">1462</origDate>
+            <persName role="origin|scribe">Guillelmi
+              Gaudebout</persName>
+            <p corresp="origin|scribe">
+              <quote>« Explicit secundus liber dyalogorum beati
+                Gregorii pape... scriptus per manum fratris
+                Guillelmi Gaudebout, pro tune in collegio
+                Cluniacensi [collège de Cluny] Parisius commorantis,
+                anno Domini M°quadringentesimo sexagesimo 2°
+                »</quote>
+              <desc>(souscription rubriquée)</desc>
+              <locus>f. 17 v°</locus>. </p>
+          </origin>
+          <provenance>
+            <orgName role="possesseur">Saint-Martin-des-Champs,
+              Paris</orgName>
+            <p>
+              <bibl>cf. A. <hi rend="smallcaps">Molinier,</hi>
+                <hi rend="italic">Catalogue des mss de la bibl.
+                  Mazarine,</hi> t. II, 1886, p. 227</bibl>
+            </p>
+          </provenance>
+        </history>
+        
+      </result>
+    </output>
+  </example>
+  
+
+</examples>
